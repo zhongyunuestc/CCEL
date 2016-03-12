@@ -1,4 +1,0 @@
-1295.文本:Radwanska isn't done, thanks to her win and Pennetta not claiming a set versus Sharapova, who topped the group with a perfect 3-0 record. Pennetta led 4-2 in the first.
-  实体指称项:[Radwanska, Pennetta, Sharapova]
-  消歧结果:{Radwanska=NIL, Pennetta=https://en.wikipedia.org/wiki/Pennetta, Sharapova=https://en.wikipedia.org/wiki/Sharapova}
-

@@ -1,4 +1,0 @@
-950.文本:As second seed in China, Federer had been hoping for the chance of revenge against world No. 1 Novak, who beat him in September's U.S. Open final.
-  实体指称项:[Federer, Novak, China, U.S. Open]
-  消歧结果:{Novak=https://en.wikipedia.org/wiki/Novak Djokovic, Federer=https://en.wikipedia.org/wiki/Federer, China=https://en.wikipedia.org/wiki/China, U.S. Open=https://en.wikipedia.org/wiki/U.S. Open (golf)}
-
