@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/ant-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/ant-launcher-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/hibernate-c3p0-4.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/hibernate-core-4.1.3.Final.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/javassist-3.16.1-GA.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/jgrapht-jdk1.5-0.7.3.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/jopt-simple-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/mysql-connector-java-5.1.21.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/ptk-common-1.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/rats-runtime-1.15.0.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/spring-asm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/spring-beans-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/spring-core-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/swc-engine-1.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/swc-parser-lazy-1.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/swing-layout-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/trove4j-3.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/utils-0.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/dependencies/xercesImpl-2.9.1-lucene.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.api-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.datamachine-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.dist-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.mwdumper-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.parser-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.revisionmachine-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.timemachine-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.util-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/JWPL-0.9.2/de.tudarmstadt.ukp.wikipedia.wikimachine-0.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/graduate/JWPL/de.tudarmstadt.ukp.wikipedia.datamachine-1.0.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/jar 包库/stanford-corenlp-full-2014-08-27/stanford-corenlp-full-2014-08-27/stanford-corenlp-3.4.1.jar"/>
+	<classpathentry kind="lib" path="F:/jar 包库/ZHConverter.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
